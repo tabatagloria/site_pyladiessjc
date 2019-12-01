@@ -1,0 +1,67 @@
+#home{
+    display: table-column;
+    float: left;
+    max-width: 20%;
+    margin-right: 3px;
+    margin-left: 0px; 
+}
+
+.barNav a{
+    display: flex;
+    float: left;
+    margin-left: 3%;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    text-decoration: none;
+    color: #696969;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.footer_materiais{
+    width: 100%;
+    background-color: #FBD94C;
+    position: fixed;
+    bottom: 0;
+    height: 140px; } 
+
+
+#logo{
+    display: table-column;
+    float: left;
+    max-width: 7%;
+    margin-right: 62%; 
+    margin-left: 25px;
+    margin-top: 2%;
+}
+
+.sociais_icons img{
+    display: flex;
+    float: left;
+    max-width: 5%;
+    margin-top: 2%;    
+}
+
+.sociais_icons #icon1{
+    display: flex;
+    float: left;
+    max-width: 5.5%;
+    margin-top: 1.7%;  
+}
+
+#django{
+    max-width: 12%;
+    margin-left: -100px;
+}
+
+.fotos2 p img{
+    margin-top: 20px;
+}
+
+.links p{
+    margin-top: 10px;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
+

@@ -1,0 +1,79 @@
+#home{
+    display: table-column;
+    float: left;
+    max-width: 20%;
+    margin-right: 3px;
+    margin-left: 0px; 
+}
+
+.barNav a{
+    display: flex;
+    float: left;
+    margin-left: 3%;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    text-decoration: none;
+    color: #696969;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.footer_sobre{
+    width: 100%;
+    background-color: #FBD94C;
+    position: inherit;
+    bottom: 0;
+    height: 140px; } 
+
+
+#logo{
+    display: table-column;
+    float: left;
+    max-width: 7%;
+    margin-right: 62%; 
+    margin-left: 25px;
+    margin-top: 2%;
+}
+
+.sociais_icons img{
+    display: flex;
+    float: left;
+    max-width: 5%;
+    margin-top: 2%;    
+}
+
+.sociais_icons #icon1{
+    display: flex;
+    float: left;
+    max-width: 5.5%;
+    margin-top: 1.7%;  
+}
+
+#python{
+    max-width: 20%;
+    margin-right: 10%;
+    margin: 0;
+    margin-left: -262px;
+}
+
+#pyladies{
+    max-width: 12%;
+    margin-left: 10%;
+}
+
+.fotos p img{
+    margin-top: 20px;
+}
+
+.texto p{
+    margin-top: 10px;
+    font-size: large;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
+
+.fonte p{
+    font-size: 15px;
+    text-align: center;
+    font-style: italic;
+}
